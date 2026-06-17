@@ -1,0 +1,168 @@
+body {
+    margin: 1px;
+    width: 100%;
+	height: 100%;
+    background-color: white
+      }
+.menu {
+    display: flex;         
+    flex-direction: row;    
+    flex-wrap: nowrap;     
+    gap: 2.6%;            
+    overflow-x: auto;
+    width: 100%;
+    height: 70%;
+    align-items: center;
+}
+
+
+header {
+    width: 100%;
+	height: 13%;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding: 5px;	 
+}
+p {
+    color: white
+}
+
+.titulo_menu {
+    color: black;
+    text-align: center;
+    font-size: xx-large; 
+}
+.pikachu {
+    text-align: center;
+
+}
+
+nav {
+    background-color:#eeeeee;
+    height:20px;
+    width:100%;
+    padding:5px;
+    text-align: center;
+	word-spacing: 5.2em;
+}
+section {
+    height:630px;
+    width:1000px;
+    float:left;
+    padding:5px;	
+    text-align:center;
+    	
+}
+
+aside {
+    height:630px;
+    width:10%;
+    background-color: #000080;
+    float:right;
+    padding:5px;
+    top: 0  	 	 
+}
+footer {
+    width: 100%;
+	height: 3%;
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    position: fixed;
+    bottom: 0;
+    	
+    }
+h4 {
+  color: black;
+
+}
+.titulo1 {
+  color: white;
+}
+
+span.insta {
+      color: #e1306c;
+      text-decoration: underline;
+      text-decoration-color: #fd1d1d
+
+}
+.img_andre {
+    width: 150px;
+    height: 150px;
+}
+
+.img_etec {
+    width: 150px;
+    height: 150px;
+}
+span.link_insta {
+    color: #e1306c;
+    text-decoration: underline;
+    text-decoration-color: #fd1d1d;
+}
+span.link_etec {
+    color: #e1306c;
+    text-decoration: underline;
+    text-decoration-color: #fd1d1d;
+}
+.pkp{
+    width: 350px;
+    height: 350px;
+}
+.pkpp{
+    width: 350px;
+    height: 350px;
+}
+h5 {
+    font-size: 17px;
+}
+span.vermelha {
+    color: #fd1d1d;
+}
+span.azula {
+    color: #0000CD;
+}
+.sapphire{
+    width: 350px;
+    height: 350px;
+}
+.ruby{
+    width: 350px;
+    height: 350px;
+}
+.gameplay1 {
+    width: 800px;
+    height: 400px;
+}
+.gameplay2{
+    width: 800px;
+    height: 400px;
+}
+span.gold{
+    color: goldenrod
+}
+span.silver{
+    color:silver
+}
+span.escuro {
+    color: CornflowerBlue
+}
+span.claro {
+    color: CornflowerBlue
+}
+.bluck {
+    width: 350px;
+    height: 350px;
+}
+.whute {
+    width: 350px;
+    height: 350px;
+}
+.gameplay3 {
+    width: 800px;
+    height: 400px;
+}
+
